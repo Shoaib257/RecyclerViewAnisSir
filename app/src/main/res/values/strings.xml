@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RecyclerViewAnisSir</string>
+
+    <string-array name="country_name">
+        <item>Belgium</item>
+        <item>England</item>
+        <item>Germany</item>
+        <item>India</item>
+        <item>Nethelands</item>
+        <item>Portugal</item>
+        <item>Spain</item>
+        <item>United_states</item>
+    </string-array>
+
+    <string-array name="country_desc">
+
+        <item>Belgium is feautiful country</item>
+        <item>England is feautiful country</item>
+        <item>Germany is feautiful country</item>
+        <item>India is feautiful country</item>
+        <item>Nethelands is feautiful country</item>
+        <item>Portugal is feautiful country</item>
+        <item>Spain is feautiful country</item>
+        <item>United_states is feautiful country</item>
+
+    </string-array>
+</resources>
